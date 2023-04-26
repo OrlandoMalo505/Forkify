@@ -8,11 +8,6 @@ import resultsView from './views/resultsView.js';
 import bookmarksView from './views/bookmarksView.js';
 import paginationView from './views/paginationView.js';
 import { MODAL_CLOSE_SEC } from './config.js';
-//import { MODAL_CLOSE_SEC } from './config.js';
-
-// if (module.hot) {
-//   module.hot.accept();
-// }
 
 const controlRecipes = async function () {
   try {
